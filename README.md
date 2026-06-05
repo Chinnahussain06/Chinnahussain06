@@ -7,7 +7,7 @@
 *Building scalable SaaS platforms and real-time web apps for global clients*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-shaikchinnahussainvali.netlify.app-0ea5e9?style=flat-square&logo=netlify&logoColor=white)](https://shaikchinnahussainvali.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaik-chinna-hussain-vali1b44911b3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaik-chinna-hussain-vali)
 [![Gmail](https://img.shields.io/badge/Gmail-shaikchinnahussainvali@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shaikchinnahussainvali@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Chinnahussain06-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Chinnahussain06)
 
@@ -19,7 +19,7 @@
 
 - 🏢 **Senior Software Developer** at **Ananya Networks India Pvt Ltd (Yotta Media Labs, UK)**
 - 🌍 Working remotely from **Guntur, Andhra Pradesh, India**
-- ⚡ 5+ years building **enterprise SaaS**, **real-time monitoring systems**, and **cloud-native web apps**
+- ⚡4+ years building **enterprise SaaS**, **real-time monitoring systems**, and **cloud-native web apps**
 - 🎯 Clients include **Samsung, LG, Sony, NBCUniversal, and PBS**
 - 🧱 Specialized in **frontend architecture**, **reusable component systems**, and **RBAC-secured UIs**
 - 🎓 B.Tech in Electronics & Communication Engineering — **Hindustan University, Chennai** (CGPA: 8.8/10)
